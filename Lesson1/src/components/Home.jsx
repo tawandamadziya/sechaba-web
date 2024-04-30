@@ -437,7 +437,7 @@ const Home = () => {
         </div>
 
         <button className="w-[200px] ml-10 mt- h-[50px] bg-[#e9b935] rounded-[50px] left">
-            See All Services
+            See All Testimonies
           </button>
 
 
@@ -461,7 +461,7 @@ const Home = () => {
       <div className="w mt-10 flex  flex-col smallS xl:flex-row justify-evenly items-center">
         {/*Footer*/}
         <hr className="my-hr" />
-          <div className="Name_Title w-[50%] border-2 border-[red] m-10  ">
+          <div className="Name_Title w-[50%]  m-10  ">
       <h1 className="Onhover text-3xl">
             SECHABA<span className="text-[#ffb300]">.</span>
           </h1>
@@ -469,7 +469,7 @@ const Home = () => {
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit magnam autem laudantium alias saepe! Praesentium ut veritatis nobis quod expedita aliquam sit possimus incidunt, repellendus molestiae nam, alias autem maiores!
       </div>
      <div className="flex w-[100%] justify-evenly">
-        <div className=" NavigationF w-[30%] border-2 border-green-500">
+        <div className=" NavigationF w-[30%]">
         <h1 className="text-2xl">Navigation</h1>
         <ul>
         <li className="p-5 Active Scalar ">
